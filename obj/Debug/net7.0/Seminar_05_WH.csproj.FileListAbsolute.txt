@@ -1,0 +1,15 @@
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.csproj.AssemblyReference.cache
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.AssemblyInfoInputs.cache
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.AssemblyInfo.cs
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.csproj.CoreCompileInputs.cache
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\bin\Debug\net7.0\Seminar_05_WH.exe
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\bin\Debug\net7.0\Seminar_05_WH.deps.json
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\bin\Debug\net7.0\Seminar_05_WH.runtimeconfig.json
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\bin\Debug\net7.0\Seminar_05_WH.dll
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\bin\Debug\net7.0\Seminar_05_WH.pdb
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.dll
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\refint\Seminar_05_WH.dll
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.pdb
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\Seminar_05_WH.genruntimeconfig.cache
+C:\Users\home\Desktop\Geekbreins\Programming languages\C#\Seminar_05_WH\obj\Debug\net7.0\ref\Seminar_05_WH.dll
